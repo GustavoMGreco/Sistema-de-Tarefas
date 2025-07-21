@@ -1,4 +1,6 @@
 MYSQL_HOST = 'localhost'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'sunLOML17010605@'
-MYSQL_DB = 'SistemadeTarefas'
+MYSQL_USER = 'user'
+MYSQL_PASSWORD = ''
+MYSQL_DB = 'sistema_tarefas'
+
+SECRET_KEY = 'segredo-mortal-ultra-randomico'
